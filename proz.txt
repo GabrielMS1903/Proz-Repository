@@ -2,3 +2,7 @@ Yuri Miranda
 Hiago Brito
 Henrique
 Diego Dos Santos
+
+O grupo da Proz.
+
+Desenvolva um programa Python que oferece a funcionalidade de contar o número de caracteres ou o número de palavras em um texto fornecido pelo usuário. O programa continuará executando até que o usuário opte por sair do sistema.
